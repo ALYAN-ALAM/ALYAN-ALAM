@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ALYAN-ALAM
-- 👀 I’m interested in DATA SCIENCE.
-- 🌱 I’m currently learning PYTHON 🐍.
-- 💞️ I’m looking to collaborate on PYTHON PROJECTS.
 - 📫 How to reach me alyanalam780@gmail.com.
 
 <!---
