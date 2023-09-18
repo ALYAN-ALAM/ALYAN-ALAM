@@ -26,8 +26,8 @@
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALYAN-ALAM&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
-## Contribution Graph
-![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
+<!-- ## Contribution Graph
+![Contribution Graph]() -->
 
 ## Tech Stack
 
