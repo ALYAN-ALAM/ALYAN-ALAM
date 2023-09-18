@@ -8,7 +8,7 @@
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2023 Goals: Contribute to open source and learn Full Stack Development as much as possible.
 - 🎶 2030 Goals: Start own startup.
-- 📢 I Love to read books, and learn new technologies.
+- 📢 I Love to learn new technologies.
 
 
 	<a  align="center">
