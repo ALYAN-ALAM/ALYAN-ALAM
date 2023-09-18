@@ -77,9 +77,11 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
 
 ## Fun Fact
+<p align="center">
 <a >
-		<img height="200em" width="150em" src= "https://media.giphy.com/media/mRIQmhZlcxycvpRPMY/giphy-downsized-large.gif" />
+		<img height="250em" width="200em" src= "https://media.giphy.com/media/mRIQmhZlcxycvpRPMY/giphy-downsized-large.gif" />
 	</a>
+</p>
 
 <!---
 ALYAN-ALAM/ALYAN-ALAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
