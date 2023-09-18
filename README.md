@@ -78,7 +78,7 @@
 
 ## Fun Fact
 <a >
-		<img src= "https://media.giphy.com/media/mRIQmhZlcxycvpRPMY/giphy-downsized-large.gif" />
+		<img height="200em" width="150em" src= "https://media.giphy.com/media/mRIQmhZlcxycvpRPMY/giphy-downsized-large.gif" />
 	</a>
 
 <!---
