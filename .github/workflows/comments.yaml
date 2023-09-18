@@ -1,0 +1,22 @@
+name: Auto Comment on New Issue
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  auto-comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on Issue
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issueComment = `Thank you for opening this issue, @${{ github.event.issue.user.login }}! We will look into it.`;
+            github.issues.createComment({
+              issue_number: ${{ github.event.issue.number }},
+              owner: ${{ github.repository_owner }},
+              repo: ${{ github.repository }},
+              body: issueComment,
+            });
