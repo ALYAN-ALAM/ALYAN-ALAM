@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: ALYAN-ALAM
           # Text on contribution graph
-          text: ALYAN
+          text: Saeed
       - uses: jasineri/simple-push-action@v1
